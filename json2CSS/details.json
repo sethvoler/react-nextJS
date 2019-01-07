@@ -1,0 +1,53 @@
+{
+  "title": {
+    "color": "#f09",
+    "fontSize": "24px",
+    "fontWeight": "900"
+  },
+  "order1": {
+    "color": "#f00",
+    "fontSize": "24px",
+    "fontWeight": "900"
+  },
+  "order2": {
+    "color": "#00f",
+    "fontSize": "24px",
+    "fontWeight": "900"
+  },
+  "order3": {
+    "color": "#a0a",
+    "fontSize": "24px",
+    "fontWeight": "900"
+  },
+  "order": {
+    "color": "#100",
+    "fontSize": "24px",
+    "fontWeight": "900"
+  },
+  "detail": {
+    "display": "flex"
+  },
+  "album": {
+    "margin": 0,
+    "padding": 0,
+    "height": "17px",
+    "fontSize": "1px",
+    "lineHeight": "12px"
+  },
+  "desc": {
+    "width": "70%",
+    "marginLeft": "6px",
+    "position": "relative",
+    "top": "0px"
+  },
+  "small": {
+    "fontSize": "1px",
+    "lineHeight": "10px"
+  },
+  "back": {
+    "textDecoration": "none",
+    "cursor": "pointer",
+    "fontSize": "18px",
+    "marginRight": "12px"
+  }
+}
