@@ -33,8 +33,8 @@ export default class extends React.Component {
       return  (
         <div>
             <Head>
-                <title>音乐排行榜</title>
-                <meta name="viewport" content="initial-scale=1.0, width=device-width" />
+              <title>音乐排行榜</title>
+              <meta name="viewport" content="initial-scale=1.0, width=device-width" />
             </Head>
             
             <div>
